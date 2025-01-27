@@ -5,7 +5,7 @@ Class: ARCH 6132: Intermediate Applications
 Location: The Gensler Family AAP NYC Center  
 Meeting time: Thursdays 9:30am \- 12pm  
 Instructor: [Juan Francisco Saldarriaga](mailto:juanfrans@gmail.com) ([js3852@cornell.edu](mailto:js3852@cornell.edu))  
-Office hours: Fridays 9am-11am (By appointment – please [sign up](https://calendar.app.google/xCToLwfWspqMzgjEA) in advance)  
+Office hours: Tuesdays 9am - 10:30am (By appointment – please [sign up](https://calendar.app.google/xCToLwfWspqMzgjEA) in advance)  
 Date: Jan 23, 2025
 
 ## `Overview`
@@ -55,10 +55,7 @@ Today is the first class. We will go over the syllabus and talk about the course
 
 ## `Todo`
 
-- [ ] Move these notes to the repo (.md)  
-- [ ] Update syllabus on repo (new appointment day)  
-- [x] ~~Email through Canvas with link to syllabus (google doc)~~  
-- [x] ~~Update time slot for appointments~~  
-      * Mondays all day  
-      * Tuesdays mornings  
-      * Wednesday mornings
+* [x] Move these notes to the repo (.md)  
+* [x] Update syllabus on repo (new appointment day)  
+* [x] Email through Canvas with link to syllabus (google doc)
+* [x] Update time slot for appointments
