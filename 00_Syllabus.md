@@ -114,12 +114,12 @@ Additional material for lectures and labs will be available on [GitHub](https://
 
 ## `Grading Procedures`
 
-Each class will begin with a discussion around the readings assigned the previous session. Students should participate in these discussions. Class participation will be wrapped into your attendance grade. 
+Each class will begin with a discussion around the readings assigned the previous session. Students should participate in these discussions. Class participation will be wrapped into your attendance grade.
 
 The core deliverable of this course is a group assignment due at the end of the semester, and the majority of assignments work towards producing graphics and narratives to be incorporated in the final. Despite this, all mapping and reporting assignments will be completed, submitted, and graded individually.
 
 * 60% – Individual assignments  
-* 30% – Final assignment   
+* 30% – Final assignment
 * 10% – Class attendance and participation
 
 Late Work  
@@ -204,26 +204,26 @@ Useful links
 
 ### `Sample datasets`
 
-- NYC Energy building consumption  
-- Citibike  
-- Taxis and hailriding (TLC)  
-- NYC Open Data  
-- 311  
-- PLUTO
+* NYC Energy building consumption  
+* Citibike  
+* Taxis and hailriding (TLC)  
+* NYC Open Data  
+* 311  
+* PLUTO
 
 ### `Useful links`
 
-- Good dataset and good topic for learning about biases and errors in the data:  
-  - Foursquare release:  
-    - [https://location.foursquare.com/resources/blog/products/foursquare-open-source-places-a-new-foundational-dataset-for-the-geospatial-community/](https://location.foursquare.com/resources/blog/products/foursquare-open-source-places-a-new-foundational-dataset-for-the-geospatial-community/)  
-    - [https://opensource.foursquare.com/os-places/](https://opensource.foursquare.com/os-places/)  
-    - [https://docs.foursquare.com/data-products/docs/categories](https://docs.foursquare.com/data-products/docs/categories)  
-  - [https://www.linkedin.com/posts/ugcPost-7265867829252386817-iAMl/](https://www.linkedin.com/posts/ugcPost-7265867829252386817-iAMl/) (problems)  
-  - [https://simonwillison.net/2024/Nov/20/foursquare-open-source-places/](https://simonwillison.net/2024/Nov/20/foursquare-open-source-places/) (how to download and use)  
-- Examples:  
-  - [https://projects.thecity.nyc/hazard-nyc-newtown-creek/](https://projects.thecity.nyc/hazard-nyc-newtown-creek/)  
-  - [https://projects.thecity.nyc/hazard-nyc-gowanus-canal/](https://projects.thecity.nyc/hazard-nyc-gowanus-canal/)  
-  - [https://blog.meliharvey.com/blog/02-urban-tree-cover/](https://blog.meliharvey.com/blog/02-urban-tree-cover/)  
-  - [Off the charts newsletter \- The Economist](https://www.economist.com/newsletters/off-the-charts)  
-- Cartography best practices:  
-  - [Best practices for map design](https://proceedings.esri.com/library/userconf/fed16/papers/fed_86.pdf)  
+* Good dataset and good topic for learning about biases and errors in the data:  
+  * Foursquare release:  
+    * [https://location.foursquare.com/resources/blog/products/foursquare-open-source-places-a-new-foundational-dataset-for-the-geospatial-community/](https://location.foursquare.com/resources/blog/products/foursquare-open-source-places-a-new-foundational-dataset-for-the-geospatial-community/)  
+    * [https://opensource.foursquare.com/os-places/](https://opensource.foursquare.com/os-places/)  
+    * [https://docs.foursquare.com/data-products/docs/categories](https://docs.foursquare.com/data-products/docs/categories)  
+  * [https://www.linkedin.com/posts/ugcPost-7265867829252386817-iAMl/](https://www.linkedin.com/posts/ugcPost-7265867829252386817-iAMl/) (problems)  
+  * [https://simonwillison.net/2024/Nov/20/foursquare-open-source-places/](https://simonwillison.net/2024/Nov/20/foursquare-open-source-places/) (how to download and use)  
+* Examples:  
+  * [https://projects.thecity.nyc/hazard-nyc-newtown-creek/](https://projects.thecity.nyc/hazard-nyc-newtown-creek/)  
+  * [https://projects.thecity.nyc/hazard-nyc-gowanus-canal/](https://projects.thecity.nyc/hazard-nyc-gowanus-canal/)  
+  * [https://blog.meliharvey.com/blog/02-urban-tree-cover/](https://blog.meliharvey.com/blog/02-urban-tree-cover/)  
+  * [Off the charts newsletter \- The Economist](https://www.economist.com/newsletters/off-the-charts)  
+* Cartography best practices:  
+  * [Best practices for map design](https://proceedings.esri.com/library/userconf/fed16/papers/fed_86.pdf)  
