@@ -52,10 +52,3 @@ Today is the first class. We will go over the syllabus and talk about the course
 ## `Assignment`
 
 * Build a personal site
-
-## `Todo`
-
-* [x] Move these notes to the repo (.md)  
-* [x] Update syllabus on repo (new appointment day)  
-* [x] Email through Canvas with link to syllabus (google doc)
-* [x] Update time slot for appointments
