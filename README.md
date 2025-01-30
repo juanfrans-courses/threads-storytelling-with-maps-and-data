@@ -1,9 +1,9 @@
-# `Threads – Storytelling with Maps and Data`
+# Threads – Storytelling with Maps and Data
 
 SPRING 2025  
 Class: ARCH 6132: Intermediate Applications  
 Location: The Gensler Family AAP NYC Center  
-Meeting time: Thursdays 9:30am \- 12pm  
+Meeting time: Thursdays 9:30am - 12pm  
 Instructor: [Juan Francisco Saldarriaga](mailto:juanfrans@gmail.com) ([js3852@cornell.edu](mailto:js3852@cornell.edu))  
 Office hours: Tuesdays 9am – 10:30am (By appointment – please [sign up](https://calendar.app.google/xCToLwfWspqMzgjEA) in advance)  
 Grading: Letter  
@@ -15,11 +15,11 @@ Last modified: Dec 11, 2024
 
 *The Gensler Family AAP NYC Center is located on the unceded homelands of the Lenape people. We offer this acknowledgment in recognition of the original people of this land, the Lenape, their resilience in the face of settler colonialism, and their deep connection to this place. The land that the Lenape occupied before the arrival of European settlers is known as Lenapehoking, Land of the People, an area including NYC and extending from Western Connecticut to Eastern Pennsylvania and from the Hudson Valley to New Jersey and Delaware. Lenape nations, communities, and individuals live in locations spanning the world, including five federally recognized nations in Oklahoma, Wisconsin, and Ontario. We acknowledge the painful history of Lenape dispossession and attempts of erasure, and honor the continuous connection of the Lenape people, past and present, to these lands and waters.*
 
-## `Summary`
+## Summary
 
 Threads – Storytelling with Maps and Data will teach students how to transform urban data into compelling visual narratives. Students will master rigorous spatial analysis, data visualization, and qualitative research to craft impactful stories about city life. By weaving together data, maps, and diverse voices, students will learn how to communicate complex urban issues in an engaging and accessible way.
 
-## `Rationale`
+## Rationale
 
 Cities are awash in data, offering a wealth of information about urban life. While analyzing this data can reveal important insights, the results often feel abstract and disconnected from the lived experiences of city dwellers. To bridge this gap, *Threads – Storytelling with Maps and Data* will teach students how to transform raw data into compelling urban narratives.
 
@@ -34,7 +34,7 @@ By combining analytical rigor with storytelling techniques, students will learn 
 ![Image from Reconnecting Black Communities article – Bloomberg](./ReconnectingBlackCommunities.png)
 *[What It Looks Like To Reconnect Black Communities Torn Apart By Highways](https://www.bloomberg.com/graphics/2021-urban-highways-infrastructure-racism/) – By Rachael Dottle, Laura Bliss And Pablo Robles*
 
-## `Course aims and objectives`
+## Course aims and objectives
 
 Building upon the foundation established in ARCH 6131, this course delves deeper into the complexities of urban data and its role in shaping our understanding of cities. *Threads – Storytelling with Maps and Data* guides students to become skilled urban storytellers, capable of transforming raw data into compelling narratives that resonate with diverse audiences.
 
@@ -57,7 +57,7 @@ Specifically, this course aims to:
   * Communicating research findings in a clear, accessible, and engaging manner for diverse audiences.  
   * Critically reflecting on the ethical implications of data-driven narratives and their potential impact on urban communities.
 
-## `Format and procedures`
+## Format and procedures
 
 This course combines hands-on learning with inspiring guest lectures to guide students through the process of crafting compelling urban narratives.
 
@@ -92,13 +92,13 @@ This course combines hands-on learning with inspiring guest lectures to guide st
 * Students will utilize Python and various visualization libraries to create compelling maps and data visualizations.  
 * The final narratives will integrate text, images, audio, data visualizations, and spatial representations to create rich and immersive storytelling experiences.
 
-## `Instructor Assumptions`
+## Instructor Assumptions
 
 This course embraces a collaborative and experiential approach to learning, recognizing that knowledge creation is an iterative and often messy process. The class itself is designed as a collaborative journey involving students, guest lecturers, and the instructor. Therefore, students should expect a dynamic learning environment where challenges and unexpected questions are welcomed as opportunities for shared exploration and problem-solving. We believe that grappling with real-world complexities, rather than simply seeking straightforward answers, fosters deeper understanding and resilience. This collaborative approach mirrors the professional world, where teamwork and creative problem-solving are essential skills.
 
 Similarly, this course provides a foundational understanding of geospatial analysis, web development, and journalistic practices, but it does not aim to provide comprehensive expertise in any single field. Instead, we focus on integrating key elements from each discipline to empower students to approach urban design challenges with a broader perspective, develop essential skills in data analysis, communication and storytelling, and explore new possibilities at the intersection of design, technology and social inquiry.
 
-## `Course Requirements`
+## Course Requirements
 
 Attendance and Participation  
 Attendance and participation are mandatory for lectures, lab sessions, pin-ups and reviews. In case of illness or other special circumstance, notification should be given to the instructor as soon as possible and must be given before the class.
@@ -112,7 +112,7 @@ ARCH 6132 is 3 credits
 Additional Requirements  
 Additional material for lectures and labs will be available on [GitHub](https://github.com/juanfrans-courses/threads-storytelling-with-maps-and-data).
 
-## `Grading Procedures`
+## Grading Procedures
 
 Each class will begin with a discussion around the readings assigned the previous session. Students should participate in these discussions. Class participation will be wrapped into your attendance grade.
 
@@ -125,7 +125,7 @@ The core deliverable of this course is a group assignment due at the end of the 
 Late Work  
 All assignments are due at the specified time and date. Any work that is not submitted on time may be submitted at any point during the remainder of the semester but prior to May 6, 2025\. Any late submission will receive a maximum grade of half credit. Late work submitted after the May 6 deadline will not be accepted.
 
-## `Academic Integrity`
+## Academic Integrity
 
 Each student in this course is expected to abide by the Cornell University Code of Academic Integrity ([http://cuinfo.cornell.edu/Academic/AIC.html](http://cuinfo.cornell.edu/Academic/AIC.html)). Any work submitted by a student in this course for academic credit will be the student's own work, except in the cases of projects that are specifically structured as group endeavors. Work by others shown in presentations and excerpted in papers must be properly cited and credited.
 
@@ -143,7 +143,7 @@ Students own the copyright to their work except under conditions specified in Un
 Images of students:  
 For reasons including FERPA, DACA, and other privacy concerns, student permission is required before sharing photos or videos taken in studio, class, or on a field trip.
 
-## `Diversity and Inclusion: Our Commitment`
+## Diversity and Inclusion: Our Commitment
 
 We believe that design is a principal instrument of positive social change, and that progress and innovation are driven by a commitment to inclusion across race, class, ethnicity, gender, age, religion, ability and identity. For this reason, we explicitly confirm our resolute commitment to accelerate Cornell University’s actions to be a diverse and inclusive institution. We embrace the responsibilities of ongoing internal critical reflection, dialogue, and action as individuals and as a community. We support the Cornell teaching community—our faculty, staff, and students—in their efforts to act with an ethos of inclusivism and antiracism in creating and sustaining diverse teaching and learning environments.
 
@@ -157,11 +157,11 @@ To report an incident, individuals can use one of the following methods:
 
 For students in New York City dial 911 for emergency assistance NOT CUPD.
 
-## `Accommodations for students with disabilities`
+## Accommodations for students with disabilities
 
 In compliance with the Cornell University policy and equal access laws, the instructor is available to discuss appropriate academic accommodations that may be required for students with disabilities. Requests for academic accommodations are to be made during the first three weeks of the semester, except for in unusual circumstances, so arrangements can be made. Students are encouraged to register with Student Disability Services \[[https://sds.cornell.edu](https://sds.cornell.edu)\] to verify their eligibility for appropriate accommodations.
 
-## `Religious Holidays`
+## Religious Holidays
 
 Cornell University is committed to supporting students who wish to practice their religious beliefs. Students are advised to discuss religious absences with their instructors well in advance of the religious holiday so that arrangements for making up work can be resolved before the absence.
 
@@ -174,7 +174,7 @@ or days…”
 
 A list of religious holidays can be found here: [https://scl.cornell.edu/religiousholidays](https://scl.cornell.edu/religiousholidays).
 
-## `Tentative Class Schedule`
+## Tentative Class Schedule
 
 | Week | Date | Class | Lab | Assignments | Readings |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -194,15 +194,9 @@ A list of religious holidays can be found here: [https://scl.cornell.edu/religio
 | 14 | Apr 24, 2025 | Desk Crit |  |  |  |
 | 15 | May 1, 2025 | Final review |  |  |  |
 
-## `Additional Resources`
+## Notepad – Ignore Anything Below
 
-Sample datasets
-
-Useful links
-
-## `Notepad – Ignore Anything Below`
-
-### `Sample datasets`
+### Sample datasets
 
 * NYC Energy building consumption  
 * Citibike  
@@ -211,7 +205,7 @@ Useful links
 * 311  
 * PLUTO
 
-### `Useful links`
+### Useful links
 
 * Good dataset and good topic for learning about biases and errors in the data:  
   * Foursquare release:  
