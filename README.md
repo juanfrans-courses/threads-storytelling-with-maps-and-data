@@ -180,7 +180,7 @@ A list of religious holidays can be found here: [https://scl.cornell.edu/religio
 | :---- | :---- | :---- | :---- | :---- |
 | 1 | Jan 23, 2025 | Introduction & Work Environments | Work environments | Individual \- Personal site & GitHub repo |
 | 2 | Jan 30, 2025 | Web mapping | Web mapping | Individual \- Finish personal site and style a Mapbox base map |
-| 3 | Feb 6, 2025 | Lecture ([Rachael Dottle](https://www.bloomberg.com/authors/AU1nEMcaHjc/rachael-dottle)) | Adding data to web map and styling based on attributes | Individual \- Create interactive maps with 3 datasets |
+| 3 | Feb 6, 2025 | Lecture ([Rachael Dottle](https://www.bloomberg.com/authors/AU1nEMcaHjc/rachael-dottle)) | Adding data to web map and styling based on attributes | Individual \- Create interactive maps with 2 datasets |
 | 4 | Feb 13, 2025 | GIS Core Concepts (CRS & Classification) | Projections & classifications | Individual \- 3 maps with different projections & classification (same data). Maps should be created on Colab & web. |
 | 5 | Feb 20, 2025 | *(Virtual)* Public Data | Census data (attribute joins) | Individual \- Map with census data at two different scales. Related to the project. |
 | 6 | Feb 27, 2025 | Lecture ([Grga Basic](https://grgabasic.com/)) & Desk Crit |  |  |
