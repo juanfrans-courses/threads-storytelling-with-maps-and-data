@@ -185,9 +185,9 @@ A list of religious holidays can be found here: [https://scl.cornell.edu/religio
 | 5 | Feb 20, 2025 | *(Virtual)* Public Data | Census data (attribute joins) | Individual \- Map with census data at two different scales. Related to the project. |
 | 6 | Feb 27, 2025 | Lecture ([Grga Basic](https://grgabasic.com/)) & Desk Crit |  |  |
 | 7 | Mar 6, 2025 |  Geoprocessing (Adv. GIS) | Points, buffers, overlay, joins |  |
-| 8 | Mar 13, 2025 | Data Visualization (Marks & Encodings) |  | Group \- Prepare the pitch |
+| 8 | Mar 13, 2025 | Data Visualization | Marks & Encodings | Group \- Prepare the pitch |
 | 9 | Mar 20, 2025 | Pitch | Presentations | Individual \- 5 different charts with the same data |
-| 10 | Mar 27, 2025 | APIs | Querying API (Streetview, geocoding, etc) | Individual \- Map with data from an API |
+| 10 | Mar 27, 2025 | APIs & Web Scraping | Querying APIs (Streetview, geocoding, etc) and Web Scraping | Individual \- Map with data from an API or site |
 | 11 | Apr 3, 2025 | Spring break (no class) |  |  |
 | 12 | Apr 10, 2025 | Lecture ([Anjali Singhvi](https://www.nytimes.com/by/anjali-singhvi)) & Telling a story with maps | Scrollytelling |  |
 | 13 | Apr 17, 2025 | *(Virtual)* Desk Crit |  |  |
