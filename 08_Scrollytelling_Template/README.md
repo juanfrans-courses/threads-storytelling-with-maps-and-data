@@ -13,3 +13,5 @@ Date: April 10, 2025
 Today is the last technical class :) Here, you will learn how to use Mapbox's storytelling template to create your final deliverable.
 
 The main template can be found in [this repository](https://github.com/mapbox/storytelling). And the base files for the class (as well as an older version of the template) can be found in the [PointsUnknown.nyc site](https://pointsunknown.nyc/web%20mapping/mapbox/2021/07/20/11A_MapboxStorytelling.html).
+
+Note that the files here differ a bit from the files in the Mapbox repository. For purposes of this class, please follow the files in this folder.
