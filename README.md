@@ -189,9 +189,9 @@ A list of religious holidays can be found here: [https://scl.cornell.edu/religio
 | 9 | Mar 20, 2025 | Pitch | Presentations | Individual \- 5 different charts with the same data |
 | 10 | Mar 27, 2025 | APIs & Web Scraping | Querying APIs (Streetview, geocoding, etc) and Web (and Tile) Scraping | Individual \- Map with data from an API or site |
 | 11 | Apr 3, 2025 | Spring break (no class) |  |  |
-| 12 | Apr 10, 2025 | Lecture ([Anjali Singhvi](https://www.nytimes.com/by/anjali-singhvi)) & Telling a story with maps | Scrollytelling |  |
+| 12 | Apr 10, 2025 | Telling a story with maps | Scrollytelling |  |
 | 13 | Apr 17, 2025 | *(Virtual)* Desk Crit |  |  |
-| 14 | Apr 24, 2025 | Desk Crit |  |  |
+| 14 | Apr 24, 2025 | Lecture ([Anjali Singhvi](https://www.nytimes.com/by/anjali-singhvi)) & Desk Crit |  |  |
 | 15 | May 1, 2025 | Final review |  |  |
 
 ## Notepad – Ignore Anything Below
